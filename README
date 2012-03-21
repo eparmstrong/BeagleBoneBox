@@ -1,0 +1,5 @@
+CAD files for a paper BeagleBone box.
+
+*.scad - mackup may be useful if you want to do CNC, but I am not planing doing that.
+
+*.py - python program to gerate a pdf file. Not writen yet.
